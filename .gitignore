@@ -1,6 +1,8 @@
 # Runtime Folder
 target/
 
+*.classpath
+
 # Compiled class file
 *.class
 
